@@ -1,7 +1,7 @@
-# dprintf
-A mini version of dprintf.
+# dprintf_lib
+A small library of functions coded from libc functions coded from scratch along with a mini version of dprintf.
 
-Supports %d, %i, %u, %s, %c, %p, %x, %X conversions along with the  ( .   , 0  ,  -   ,  * ) flags. (dot, zero, minus, wildcard).
+The dprintf supports %d, %i, %u, %s, %c, %p, %x, %X conversions along with the  ( .   , 0  ,  -   ,  * ) flags. (dot, zero, minus, wildcard).
 
 ## Man dprintf
 
